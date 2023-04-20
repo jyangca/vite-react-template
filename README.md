@@ -3,6 +3,7 @@
 cd vite-project
 npm install
 ```
+---
 
 ### Configured as follow
 
