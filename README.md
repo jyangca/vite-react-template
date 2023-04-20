@@ -1,3 +1,9 @@
+### Quick Start
+```bash
+cd vite-project
+npm install
+```
+
 ### Configured as follow
 
 #### Set up vite
